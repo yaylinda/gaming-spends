@@ -1,0 +1,1335 @@
+[{
+  "purchaseHistory": {
+    "invoicePrice": "$21.31",
+    "paymentMethodTitle": "Mastercard-4320",
+    "userLanguageCode": "en",
+    "userCountry": "US",
+    "doc": {
+      "documentType": "Subscription",
+      "title": "100 GB (Google One)"
+    },
+    "purchaseTime": "2020-04-07T01:46:33.863Z"
+  }
+},
+{
+  "purchaseHistory": {
+    "invoicePrice": "$0.00",
+    "paymentMethodTitle": "",
+    "doc": {
+      "documentType": "Subscription",
+      "title": "Unknown Item"
+    },
+    "purchaseTime": "2020-01-11T02:16:54.637Z"
+  }
+},
+{
+  "purchaseHistory": {
+    "invoicePrice": "$4.32",
+    "paymentMethodTitle": "Google Play balance: $15.76",
+    "userLanguageCode": "en_US",
+    "userCountry": "US",
+    "doc": {
+      "documentType": "In App Item",
+      "title": "Premium Upgrade (Fives)"
+    },
+    "purchaseTime": "2020-01-05T01:27:16.734Z"
+  }
+},
+{
+  "purchaseHistory": {
+    "invoicePrice": "$4.32",
+    "paymentMethodTitle": "Visa-9411",
+    "userLanguageCode": "en_US",
+    "userCountry": "US",
+    "doc": {
+      "documentType": "Subscription",
+      "title": "Premium Club Yearly (CARROT Weather)"
+    },
+    "purchaseTime": "2019-12-04T16:48:40.177Z"
+  }
+},
+{
+  "purchaseHistory": {
+    "invoicePrice": "$0.00",
+    "paymentMethodTitle": "",
+    "doc": {
+      "documentType": "Subscription",
+      "title": "Unknown Item"
+    },
+    "purchaseTime": "2019-11-10T05:58:23.341Z"
+  }
+},
+{
+  "purchaseHistory": {
+    "invoicePrice": "$0.00",
+    "paymentMethodTitle": "",
+    "userLanguageCode": "en_US",
+    "userCountry": "US",
+    "doc": {
+      "title": "$5.00 credit toward any audiobook over $5.00"
+    },
+    "purchaseTime": "2019-07-03T18:07:06.663Z"
+  }
+},
+{
+  "purchaseHistory": {
+    "invoicePrice": "$96.24",
+    "paymentMethodTitle": "Visa-9411",
+    "userLanguageCode": "en_US",
+    "userCountry": "US",
+    "doc": {
+      "documentType": "In App Item",
+      "title": "14,500 PokéCoins (Pokémon GO)"
+    },
+    "purchaseTime": "2019-01-12T20:06:11.437Z"
+  }
+},
+{
+  "purchaseHistory": {
+    "invoicePrice": "$8.49",
+    "paymentMethodTitle": "Visa-9411",
+    "userLanguageCode": "en_US",
+    "userCountry": "US",
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Watch Face -WatchMaker Premium for Android Wear OS"
+    },
+    "purchaseTime": "2019-01-08T01:16:07.449Z"
+  }
+},
+{
+  "purchaseHistory": {
+    "invoicePrice": "$8.49",
+    "paymentMethodTitle": "Visa-9411",
+    "userLanguageCode": "en_US",
+    "userCountry": "US",
+    "doc": {
+      "documentType": "In App Item",
+      "title": "WatchMaker Premium (Watch Faces - WatchMaker 100,000 Faces)"
+    },
+    "purchaseTime": "2019-01-08T01:15:10.681Z"
+  }
+},
+{
+  "purchaseHistory": {
+    "invoicePrice": "$2.11",
+    "paymentMethodTitle": "Visa-9411",
+    "userLanguageCode": "en_US",
+    "userCountry": "US",
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Watch Face - Pujie Black - Wear OS \u0026 Galaxy Watch"
+    },
+    "purchaseTime": "2019-01-06T17:58:54.392Z"
+  }
+},
+{
+  "purchaseHistory": {
+    "invoicePrice": "$0.00",
+    "paymentMethodTitle": "Visa-9411",
+    "userLanguageCode": "en_US",
+    "userCountry": "US",
+    "doc": {
+      "documentType": "Subscription",
+      "title": "Facer Premium (Facer Watch Faces)"
+    },
+    "purchaseTime": "2019-01-06T05:37:00.377Z"
+  }
+},
+{
+  "purchaseHistory": {
+    "invoicePrice": "$2.11",
+    "paymentMethodTitle": "Visa-9411",
+    "userLanguageCode": "en_US",
+    "userCountry": "US",
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Watch Face - Minimal \u0026 Elegant for Android Wear OS"
+    },
+    "purchaseTime": "2019-01-06T03:41:27.795Z"
+  }
+},
+{
+  "purchaseHistory": {
+    "invoicePrice": "$0.00",
+    "paymentMethodTitle": "",
+    "userLanguageCode": "en_US",
+    "userCountry": "US",
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Noonlight: Feel Protected 24/7"
+    },
+    "purchaseTime": "2019-01-06T03:16:38.976Z"
+  }
+},
+{
+  "purchaseHistory": {
+    "invoicePrice": "$0.00",
+    "paymentMethodTitle": "",
+    "userLanguageCode": "en_US",
+    "userCountry": "US",
+    "doc": {
+      "title": "$10 credit against an app, game, or in-game item with an on-store price greater than $30"
+    },
+    "purchaseTime": "2018-12-21T21:54:47.127Z"
+  }
+},
+{
+  "purchaseHistory": {
+    "invoicePrice": "$0.99",
+    "paymentMethodTitle": "Google Play balance: $1.32",
+    "userLanguageCode": "en_US",
+    "userCountry": "US",
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Mini Metro"
+    },
+    "purchaseTime": "2018-12-16T04:14:53.064Z"
+  }
+},
+{
+  "purchaseHistory": {
+    "invoicePrice": "$1.05",
+    "paymentMethodTitle": "Google Play balance: $1.95",
+    "userLanguageCode": "en_US",
+    "userCountry": "US",
+    "doc": {
+      "documentType": "In App Item",
+      "title": "100 PokéCoins (Pokémon GO)"
+    },
+    "purchaseTime": "2018-12-11T23:10:52.447Z"
+  }
+},
+{
+  "purchaseHistory": {
+    "invoicePrice": "$3.99",
+    "paymentMethodTitle": "Visa-9411",
+    "userLanguageCode": "en_US",
+    "userCountry": "US",
+    "doc": {
+      "documentType": "Subscription",
+      "title": "Premium Club Yearly (CARROT Weather)"
+    },
+    "purchaseTime": "2018-12-04T16:48:07.045Z"
+  }
+},
+{
+  "purchaseHistory": {
+    "invoicePrice": "$0.00",
+    "paymentMethodTitle": "Visa-9411",
+    "userLanguageCode": "en_US",
+    "userCountry": "US",
+    "doc": {
+      "documentType": "Subscription",
+      "title": "Premium Club Yearly (CARROT Weather)"
+    },
+    "purchaseTime": "2018-12-02T16:48:21.092Z"
+  }
+},
+{
+  "purchaseHistory": {
+    "invoicePrice": "$0.00",
+    "paymentMethodTitle": "",
+    "userLanguageCode": "en_US",
+    "userCountry": "US",
+    "doc": {
+      "title": "$2 credit toward any app or game purchase priced greater than $2"
+    },
+    "purchaseTime": "2018-11-18T19:37:57.798Z"
+  }
+},
+{
+  "purchaseHistory": {
+    "invoicePrice": "$6.99",
+    "paymentMethodTitle": "Visa-9411",
+    "userLanguageCode": "en_US",
+    "userCountry": "US",
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Race for the Galaxy"
+    },
+    "purchaseTime": "2018-11-17T21:06:27.235Z"
+  }
+},
+{
+  "purchaseHistory": {
+    "invoicePrice": "$0.00",
+    "paymentMethodTitle": "",
+    "userLanguageCode": "en_US",
+    "userCountry": "US",
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "YouTube Music - Stream Songs \u0026 Music Videos"
+    },
+    "purchaseTime": "2018-11-13T23:50:39.825Z"
+  }
+},
+{
+  "purchaseHistory": {
+    "invoicePrice": "$0.00",
+    "paymentMethodTitle": "",
+    "userLanguageCode": "en_US",
+    "userCountry": "US",
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Google Duo - High Quality Video Calls"
+    },
+    "purchaseTime": "2018-11-13T23:49:38.658Z"
+  }
+},
+{
+  "purchaseHistory": {
+    "invoicePrice": "$0.00",
+    "paymentMethodTitle": "",
+    "userLanguageCode": "en_US",
+    "userCountry": "US",
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Google Docs"
+    },
+    "purchaseTime": "2018-11-13T23:49:22.641Z"
+  }
+},
+{
+  "purchaseHistory": {
+    "invoicePrice": "$0.00",
+    "paymentMethodTitle": "",
+    "userLanguageCode": "en_US",
+    "userCountry": "US",
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Verizon Messages"
+    },
+    "purchaseTime": "2018-11-13T23:49:04.301Z"
+  }
+},
+{
+  "purchaseHistory": {
+    "invoicePrice": "$0.00",
+    "paymentMethodTitle": "",
+    "userLanguageCode": "en_US",
+    "userCountry": "US",
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "My Verizon"
+    },
+    "purchaseTime": "2018-11-13T23:48:16.653Z"
+  }
+},
+{
+  "purchaseHistory": {
+    "invoicePrice": "$3.99",
+    "paymentMethodTitle": "Visa-9411",
+    "userLanguageCode": "en_US",
+    "userCountry": "US",
+    "doc": {
+      "documentType": "Subscription",
+      "title": "One Month Membership (Pixel Starships™)"
+    },
+    "purchaseTime": "2018-07-09T01:56:10.773Z"
+  }
+},
+{
+  "purchaseHistory": {
+    "invoicePrice": "$3.99",
+    "paymentMethodTitle": "Visa-9411",
+    "userLanguageCode": "en_US",
+    "userCountry": "US",
+    "doc": {
+      "documentType": "Subscription",
+      "title": "One Month Membership (Pixel Starships™)"
+    },
+    "purchaseTime": "2018-06-09T01:56:11.318Z"
+  }
+},
+{
+  "purchaseHistory": {
+    "invoicePrice": "$3.99",
+    "paymentMethodTitle": "Visa-9411",
+    "userLanguageCode": "en_US",
+    "userCountry": "US",
+    "doc": {
+      "documentType": "Subscription",
+      "title": "One Month Membership (Pixel Starships™)"
+    },
+    "purchaseTime": "2018-05-09T01:56:10.591Z"
+  }
+},
+{
+  "purchaseHistory": {
+    "invoicePrice": "$3.99",
+    "paymentMethodTitle": "Visa-9411",
+    "userLanguageCode": "en_US",
+    "userCountry": "US",
+    "doc": {
+      "documentType": "Subscription",
+      "title": "One Month Membership (Pixel Starships™)"
+    },
+    "purchaseTime": "2018-04-09T01:56:11.140Z"
+  }
+},
+{
+  "purchaseHistory": {
+    "invoicePrice": "$3.99",
+    "paymentMethodTitle": "Visa-9411",
+    "userLanguageCode": "en_US",
+    "userCountry": "US",
+    "doc": {
+      "documentType": "Subscription",
+      "title": "One Month Membership (Pixel Starships™)"
+    },
+    "purchaseTime": "2018-03-09T01:56:10.677Z"
+  }
+},
+{
+  "purchaseHistory": {
+    "invoicePrice": "$19.99",
+    "paymentMethodTitle": "Visa-9411",
+    "userLanguageCode": "en_US",
+    "userCountry": "US",
+    "doc": {
+      "documentType": "In App Item",
+      "title": "100 Coupons  (Catch Them——Pokimon Boom)"
+    },
+    "purchaseTime": "2018-02-28T05:54:44.604Z"
+  }
+},
+{
+  "purchaseHistory": {
+    "invoicePrice": "$0.99",
+    "paymentMethodTitle": "Visa-9411",
+    "userLanguageCode": "en_US",
+    "userCountry": "US",
+    "doc": {
+      "documentType": "In App Item",
+      "title": "$ 0.99 Gift Pack  (Catch Them——Pokimon Boom)"
+    },
+    "purchaseTime": "2018-02-28T05:16:20.119Z"
+  }
+},
+{
+  "purchaseHistory": {
+    "invoicePrice": "$4.99",
+    "paymentMethodTitle": "Visa-9411",
+    "userLanguageCode": "en_US",
+    "userCountry": "US",
+    "doc": {
+      "documentType": "In App Item",
+      "title": "275 Diamonds (Catch Them——Pokimon Boom)"
+    },
+    "purchaseTime": "2018-02-28T05:14:08.726Z"
+  }
+},
+{
+  "purchaseHistory": {
+    "invoicePrice": "$3.99",
+    "paymentMethodTitle": "Visa-9411",
+    "userLanguageCode": "en_US",
+    "userCountry": "US",
+    "doc": {
+      "documentType": "Subscription",
+      "title": "One Month Membership (Pixel Starships™)"
+    },
+    "purchaseTime": "2018-02-09T01:56:10.963Z"
+  }
+},
+{
+  "purchaseHistory": {
+    "invoicePrice": "$0.00",
+    "paymentMethodTitle": "Visa-9411",
+    "userLanguageCode": "en_US",
+    "userCountry": "US",
+    "doc": {
+      "documentType": "Subscription",
+      "title": "One Month Membership (Pixel Starships™)"
+    },
+    "purchaseTime": "2018-02-03T01:56:11.990Z"
+  }
+},
+{
+  "purchaseHistory": {
+    "invoicePrice": "$39.99",
+    "paymentMethodTitle": "Visa-9411",
+    "userLanguageCode": "en_US",
+    "userCountry": "US",
+    "doc": {
+      "documentType": "In App Item",
+      "title": "5,200 PokéCoins (Pokémon GO)"
+    },
+    "purchaseTime": "2017-03-06T07:46:08.226Z"
+  }
+},
+{
+  "purchaseHistory": {
+    "invoicePrice": "$3.18",
+    "paymentMethodTitle": "Visa-4359",
+    "userLanguageCode": "en_US",
+    "userCountry": "US",
+    "doc": {
+      "documentType": "Movie",
+      "title": "King of Kong: A Fistful of Quarters"
+    },
+    "purchaseTime": "2016-10-11T03:29:55.778Z"
+  }
+},
+{
+  "purchaseHistory": {
+    "invoicePrice": "$15.93",
+    "paymentMethodTitle": "Visa-4099",
+    "userLanguageCode": "en_US",
+    "userCountry": "US",
+    "doc": {
+      "documentType": "Subscription",
+      "title": "Monthly Subscription (HBO Max: Stream HBO, TV, Movies \u0026 More)"
+    },
+    "purchaseTime": "2016-09-25T04:54:12.046Z"
+  }
+},
+{
+  "purchaseHistory": {
+    "invoicePrice": "$9.99",
+    "paymentMethodTitle": "Visa-4359",
+    "userLanguageCode": "en_US",
+    "userCountry": "US",
+    "doc": {
+      "documentType": "In App Item",
+      "title": "Arena 8 Starter Pack (Clash Royale)"
+    },
+    "purchaseTime": "2016-09-24T18:08:22.077Z"
+  }
+},
+{
+  "purchaseHistory": {
+    "invoicePrice": "$13.80",
+    "paymentMethodTitle": "Visa-4359",
+    "userLanguageCode": "en_US",
+    "userCountry": "US",
+    "doc": {
+      "documentType": "Movie",
+      "title": "Matilda (1996)"
+    },
+    "purchaseTime": "2016-09-19T03:08:31.447Z"
+  }
+},
+{
+  "purchaseHistory": {
+    "invoicePrice": "$2.11",
+    "paymentMethodTitle": "Visa-4359",
+    "userLanguageCode": "en",
+    "userCountry": "US",
+    "doc": {
+      "documentType": "Subscription",
+      "title": "100 GB (Google Drive)"
+    },
+    "purchaseTime": "2016-09-18T07:17:31.693Z"
+  }
+},
+{
+  "purchaseHistory": {
+    "invoicePrice": "$4.24",
+    "paymentMethodTitle": "Google Play balance: $6.21",
+    "userLanguageCode": "en_US",
+    "userCountry": "US",
+    "doc": {
+      "documentType": "Movie",
+      "title": "Pokémon: The First Movie"
+    },
+    "purchaseTime": "2016-09-08T02:55:45.089Z"
+  }
+},
+{
+  "purchaseHistory": {
+    "invoicePrice": "$16.23",
+    "paymentMethodTitle": "Visa-4099",
+    "userLanguageCode": "en_US",
+    "userCountry": "",
+    "doc": {
+      "documentType": "Subscription",
+      "title": "Monthly Subscription (HBO Max: Stream HBO, TV, Movies \u0026 More)"
+    },
+    "purchaseTime": "2016-08-25T04:26:58.830Z"
+  }
+},
+{
+  "purchaseHistory": {
+    "invoicePrice": "$16.23",
+    "paymentMethodTitle": "Visa-4099",
+    "userLanguageCode": "en_US",
+    "userCountry": "",
+    "doc": {
+      "documentType": "Subscription",
+      "title": "Monthly Subscription (HBO Max: Stream HBO, TV, Movies \u0026 More)"
+    },
+    "purchaseTime": "2016-07-25T04:50:33.426Z"
+  }
+},
+{
+  "purchaseHistory": {
+    "invoicePrice": "$19.99",
+    "paymentMethodTitle": "Visa-4099",
+    "userLanguageCode": "en_US",
+    "userCountry": "US",
+    "doc": {
+      "documentType": "In App Item",
+      "title": "2,500 PokéCoins (Pokémon GO)"
+    },
+    "purchaseTime": "2016-07-11T01:09:55.155Z"
+  }
+},
+{
+  "purchaseHistory": {
+    "invoicePrice": "$9.99",
+    "paymentMethodTitle": "Visa-4099",
+    "userLanguageCode": "en_US",
+    "userCountry": "US",
+    "doc": {
+      "documentType": "In App Item",
+      "title": "1,200 PokéCoins (Pokémon GO)"
+    },
+    "purchaseTime": "2016-07-09T23:56:26.528Z"
+  }
+},
+{
+  "purchaseHistory": {
+    "invoicePrice": "$0.99",
+    "paymentMethodTitle": "Google Play balance: $1.64",
+    "userLanguageCode": "en_US",
+    "userCountry": "US",
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "A Dark Room ®"
+    },
+    "purchaseTime": "2016-07-03T10:10:52.416Z"
+  }
+},
+{
+  "purchaseHistory": {
+    "invoicePrice": "$0.99",
+    "paymentMethodTitle": "Google Play balance: $1.75",
+    "userLanguageCode": "en_US",
+    "userCountry": "US",
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Nova Launcher Prime"
+    },
+    "purchaseTime": "2016-06-28T13:33:04.294Z"
+  }
+},
+{
+  "purchaseHistory": {
+    "invoicePrice": "$16.23",
+    "paymentMethodTitle": "Visa-4099",
+    "userLanguageCode": "en_US",
+    "userCountry": "",
+    "doc": {
+      "documentType": "Subscription",
+      "title": "Monthly Subscription (HBO Max: Stream HBO, TV, Movies \u0026 More)"
+    },
+    "purchaseTime": "2016-06-25T04:43:49.185Z"
+  }
+},
+{
+  "purchaseHistory": {
+    "invoicePrice": "$0.99",
+    "paymentMethodTitle": "Visa-4099",
+    "userLanguageCode": "en_US",
+    "userCountry": "US",
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Chrono Watch Face"
+    },
+    "purchaseTime": "2016-06-19T16:18:00.784Z"
+  }
+},
+{
+  "purchaseHistory": {
+    "invoicePrice": "$19.99",
+    "paymentMethodTitle": "Visa-4099",
+    "userLanguageCode": "en_US",
+    "userCountry": "US",
+    "doc": {
+      "documentType": "In App Item",
+      "title": "VIP Package (50% OFF!) (Tiny Tower)"
+    },
+    "purchaseTime": "2016-06-18T06:16:40.532Z"
+  }
+},
+{
+  "purchaseHistory": {
+    "invoicePrice": "$0.99",
+    "paymentMethodTitle": "Google Play balance: $6.30",
+    "userLanguageCode": "en",
+    "userCountry": "US",
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Odyssey Watch Face"
+    },
+    "purchaseTime": "2016-06-06T23:03:22.553Z"
+  }
+},
+{
+  "purchaseHistory": {
+    "invoicePrice": "$2.49",
+    "paymentMethodTitle": "Google Play balance: $8.41",
+    "userLanguageCode": "en_US",
+    "userCountry": "US",
+    "doc": {
+      "documentType": "In App Item",
+      "title": "Remove Ads (Boost for reddit)"
+    },
+    "purchaseTime": "2016-06-05T21:38:29.094Z"
+  }
+},
+{
+  "purchaseHistory": {
+    "invoicePrice": "$16.23",
+    "paymentMethodTitle": "Visa-4099",
+    "userLanguageCode": "en_US",
+    "userCountry": "",
+    "doc": {
+      "documentType": "Subscription",
+      "title": "Monthly Subscription (HBO Max: Stream HBO, TV, Movies \u0026 More)"
+    },
+    "purchaseTime": "2016-05-25T04:13:22.885Z"
+  }
+},
+{
+  "purchaseHistory": {
+    "invoicePrice": "$0.00",
+    "paymentMethodTitle": "Visa-4099",
+    "userLanguageCode": "en_US",
+    "userCountry": "US",
+    "doc": {
+      "documentType": "Subscription",
+      "title": "Monthly Subscription (HBO Max: Stream HBO, TV, Movies \u0026 More)"
+    },
+    "purchaseTime": "2016-04-25T03:40:52.967Z"
+  }
+},
+{
+  "purchaseHistory": {
+    "invoicePrice": "$99.99",
+    "paymentMethodTitle": "Visa-4099",
+    "userLanguageCode": "en_US",
+    "userCountry": "US",
+    "doc": {
+      "documentType": "In App Item",
+      "title": "Mountain of Gems (Clash Royale)"
+    },
+    "purchaseTime": "2016-04-19T03:30:47.162Z"
+  }
+},
+{
+  "purchaseHistory": {
+    "invoicePrice": "$4.99",
+    "paymentMethodTitle": "Visa-4099",
+    "userLanguageCode": "en_US",
+    "userCountry": "US",
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "My Boy! - GBA Emulator"
+    },
+    "purchaseTime": "2016-04-18T17:21:39.250Z"
+  }
+},
+{
+  "purchaseHistory": {
+    "invoicePrice": "$99.99",
+    "paymentMethodTitle": "Visa-4099",
+    "userLanguageCode": "en_US",
+    "userCountry": "US",
+    "doc": {
+      "documentType": "In App Item",
+      "title": "Mountain of Gems (Clash Royale)"
+    },
+    "purchaseTime": "2016-03-17T21:37:44.217Z"
+  }
+},
+{
+  "purchaseHistory": {
+    "invoicePrice": "$99.99",
+    "paymentMethodTitle": "Google Play balance: $100.55",
+    "userLanguageCode": "en_US",
+    "userCountry": "US",
+    "doc": {
+      "documentType": "In App Item",
+      "title": "Mountain of Gems (Clash Royale)"
+    },
+    "purchaseTime": "2016-03-14T18:41:16.461Z"
+  }
+},
+{
+  "purchaseHistory": {
+    "invoicePrice": "$50.00",
+    "paymentMethodTitle": "Visa-4099",
+    "userLanguageCode": "en_US",
+    "userCountry": "US",
+    "doc": {
+      "documentType": "Google Play Credit",
+      "title": "$50.00 credit"
+    },
+    "purchaseTime": "2016-03-14T18:41:05.185Z"
+  }
+},
+{
+  "purchaseHistory": {
+    "invoicePrice": "$50.00",
+    "paymentMethodTitle": "Visa-4099",
+    "userLanguageCode": "en_US",
+    "userCountry": "US",
+    "doc": {
+      "documentType": "Google Play Credit",
+      "title": "$50.00 credit"
+    },
+    "purchaseTime": "2016-03-14T18:40:41.671Z"
+  }
+},
+{
+  "purchaseHistory": {
+    "invoicePrice": "$99.99",
+    "paymentMethodTitle": "Visa-4099",
+    "userLanguageCode": "en_US",
+    "userCountry": "US",
+    "doc": {
+      "documentType": "In App Item",
+      "title": "Mountain of Gems (Clash Royale)"
+    },
+    "purchaseTime": "2016-03-09T05:17:17.983Z"
+  }
+},
+{
+  "purchaseHistory": {
+    "invoicePrice": "$0.10",
+    "paymentMethodTitle": "Google Play balance: $7.21",
+    "userLanguageCode": "en_US",
+    "userCountry": "US",
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Minecraft: Story Mode"
+    },
+    "purchaseTime": "2015-12-24T21:27:08.614Z"
+  }
+},
+{
+  "purchaseHistory": {
+    "invoicePrice": "$11.90",
+    "paymentMethodTitle": "Google Play balance: $16.15",
+    "userLanguageCode": "en",
+    "userCountry": "US",
+    "doc": {
+      "documentType": "Music Album",
+      "title": "25"
+    },
+    "purchaseTime": "2015-11-20T23:59:37.559Z"
+  }
+},
+{
+  "purchaseHistory": {
+    "invoicePrice": "$0.99",
+    "paymentMethodTitle": "Google Play balance: $13.24",
+    "userLanguageCode": "en_US",
+    "userCountry": "US",
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "UniWar"
+    },
+    "purchaseTime": "2015-10-15T14:52:22.785Z"
+  }
+},
+{
+  "purchaseHistory": {
+    "invoicePrice": "$9.99",
+    "paymentMethodTitle": "",
+    "userLanguageCode": "en_US",
+    "userCountry": "US",
+    "doc": {
+      "documentType": "In App Item",
+      "title": "Extra Large Pack of Passes (Episode - Choose Your Story)"
+    },
+    "purchaseTime": "2015-08-30T06:10:21.721Z"
+  }
+},
+{
+  "purchaseHistory": {
+    "invoicePrice": "$9.99",
+    "paymentMethodTitle": "",
+    "userLanguageCode": "en_US",
+    "userCountry": "US",
+    "doc": {
+      "documentType": "In App Item",
+      "title": "Vessel of Gems (Dragon City)"
+    },
+    "purchaseTime": "2015-08-04T15:50:38.769Z"
+  }
+},
+{
+  "purchaseHistory": {
+    "invoicePrice": "$0.99",
+    "paymentMethodTitle": "",
+    "userLanguageCode": "en_US",
+    "userCountry": "US",
+    "doc": {
+      "documentType": "In App Item",
+      "title": "Boost Pack (Dragon City)"
+    },
+    "purchaseTime": "2015-07-30T08:07:12.968Z"
+  }
+},
+{
+  "purchaseHistory": {
+    "invoicePrice": "$9.99",
+    "paymentMethodTitle": "",
+    "userLanguageCode": "en_US",
+    "userCountry": "US",
+    "doc": {
+      "documentType": "In App Item",
+      "title": "Bag of Gems (Clash of Clans)"
+    },
+    "purchaseTime": "2015-06-25T03:48:47.067Z"
+  }
+},
+{
+  "purchaseHistory": {
+    "invoicePrice": "$9.99",
+    "paymentMethodTitle": "",
+    "userLanguageCode": "en_US",
+    "userCountry": "US",
+    "doc": {
+      "documentType": "In App Item",
+      "title": "7 Goblins vs Gnomes Packs (Hearthstone)"
+    },
+    "purchaseTime": "2015-05-23T22:32:57.347Z"
+  }
+},
+{
+  "purchaseHistory": {
+    "invoicePrice": "$24.99",
+    "paymentMethodTitle": "",
+    "userLanguageCode": "en_US",
+    "userCountry": "US",
+    "doc": {
+      "documentType": "In App Item",
+      "title": "Bundle: All 5 Blackrock Mountain Wings (Hearthstone)"
+    },
+    "purchaseTime": "2015-05-19T19:25:26.264Z"
+  }
+},
+{
+  "purchaseHistory": {
+    "invoicePrice": "$19.99",
+    "paymentMethodTitle": "",
+    "userLanguageCode": "en_US",
+    "userCountry": "US",
+    "doc": {
+      "documentType": "In App Item",
+      "title": "15 Goblins vs Gnomes Packs (Hearthstone)"
+    },
+    "purchaseTime": "2015-05-18T19:12:41.817Z"
+  }
+},
+{
+  "purchaseHistory": {
+    "invoicePrice": "$9.99",
+    "paymentMethodTitle": "",
+    "userLanguageCode": "en_US",
+    "userCountry": "US",
+    "doc": {
+      "documentType": "In App Item",
+      "title": "7 Goblins vs Gnomes Packs (Hearthstone)"
+    },
+    "purchaseTime": "2015-05-17T06:56:22.929Z"
+  }
+},
+{
+  "purchaseHistory": {
+    "invoicePrice": "$2.99",
+    "paymentMethodTitle": "",
+    "userLanguageCode": "en_US",
+    "userCountry": "US",
+    "doc": {
+      "documentType": "In App Item",
+      "title": "2 Goblins vs Gnomes Packs (Hearthstone)"
+    },
+    "purchaseTime": "2015-05-17T06:53:18.347Z"
+  }
+},
+{
+  "purchaseHistory": {
+    "invoicePrice": "$9.99",
+    "paymentMethodTitle": "",
+    "userLanguageCode": "en_US",
+    "userCountry": "US",
+    "doc": {
+      "documentType": "In App Item",
+      "title": "7 Classic Packs (Hearthstone)"
+    },
+    "purchaseTime": "2015-05-17T06:30:40.280Z"
+  }
+},
+{
+  "purchaseHistory": {
+    "invoicePrice": "$9.99",
+    "paymentMethodTitle": "",
+    "userLanguageCode": "en_US",
+    "userCountry": "US",
+    "doc": {
+      "documentType": "In App Item",
+      "title": "7 Classic Packs (Hearthstone)"
+    },
+    "purchaseTime": "2015-05-15T17:52:34.991Z"
+  }
+},
+{
+  "purchaseHistory": {
+    "invoicePrice": "$9.99",
+    "paymentMethodTitle": "",
+    "userLanguageCode": "en_US",
+    "userCountry": "US",
+    "doc": {
+      "documentType": "In App Item",
+      "title": "7 Classic Packs (Hearthstone)"
+    },
+    "purchaseTime": "2015-05-15T07:49:10.461Z"
+  }
+},
+{
+  "purchaseHistory": {
+    "invoicePrice": "$2.99",
+    "paymentMethodTitle": "",
+    "userLanguageCode": "en_US",
+    "userCountry": "US",
+    "doc": {
+      "documentType": "In App Item",
+      "title": "2 Classic Packs (Hearthstone)"
+    },
+    "purchaseTime": "2015-05-15T06:26:14.803Z"
+  }
+},
+{
+  "purchaseHistory": {
+    "invoicePrice": "$2.99",
+    "paymentMethodTitle": "",
+    "userLanguageCode": "en_US",
+    "userCountry": "US",
+    "doc": {
+      "documentType": "In App Item",
+      "title": "2 Goblins vs Gnomes Packs (Hearthstone)"
+    },
+    "purchaseTime": "2015-05-15T06:25:53.950Z"
+  }
+},
+{
+  "purchaseHistory": {
+    "invoicePrice": "$0.99",
+    "paymentMethodTitle": "",
+    "userLanguageCode": "en_US",
+    "userCountry": "US",
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Tamagotchi Classic - Gen1"
+    },
+    "purchaseTime": "2015-05-14T22:24:40.307Z"
+  }
+},
+{
+  "purchaseHistory": {
+    "invoicePrice": "$0.59",
+    "paymentMethodTitle": "",
+    "userLanguageCode": "en_US",
+    "userCountry": "US",
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "The Room Two"
+    },
+    "purchaseTime": "2015-05-01T07:58:28.757Z"
+  }
+},
+{
+  "purchaseHistory": {
+    "invoicePrice": "$0.99",
+    "paymentMethodTitle": "",
+    "userLanguageCode": "en_US",
+    "userCountry": "US",
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "LIMBO"
+    },
+    "purchaseTime": "2015-05-01T07:58:02.329Z"
+  }
+},
+{
+  "purchaseHistory": {
+    "invoicePrice": "$0.99",
+    "paymentMethodTitle": "",
+    "userLanguageCode": "en",
+    "userCountry": "US",
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Weather Timeline Ad Free - Forecast"
+    },
+    "purchaseTime": "2015-04-27T06:46:31.935Z"
+  }
+},
+{
+  "purchaseHistory": {
+    "invoicePrice": "$2.99",
+    "paymentMethodTitle": "",
+    "userLanguageCode": "en_US",
+    "userCountry": "US",
+    "doc": {
+      "documentType": "In App Item",
+      "title": "Premium pack (94% - Quiz, Trivia \u0026 Logic)"
+    },
+    "purchaseTime": "2015-04-16T23:23:29.794Z"
+  }
+},
+{
+  "purchaseHistory": {
+    "invoicePrice": "$49.99",
+    "paymentMethodTitle": "",
+    "userLanguageCode": "en_US",
+    "userCountry": "US",
+    "doc": {
+      "documentType": "In App Item",
+      "title": "Box of Gems (Clash of Clans)"
+    },
+    "purchaseTime": "2015-02-25T00:40:54.949Z"
+  }
+},
+{
+  "purchaseHistory": {
+    "invoicePrice": "$1.99",
+    "paymentMethodTitle": "",
+    "userLanguageCode": "en_US",
+    "userCountry": "US",
+    "doc": {
+      "documentType": "In App Item",
+      "title": "Unlock Full Version (Blip Blup)"
+    },
+    "purchaseTime": "2015-02-19T12:25:29.237Z"
+  }
+},
+{
+  "purchaseHistory": {
+    "invoicePrice": "",
+    "paymentMethodTitle": "",
+    "userLanguageCode": "en_US",
+    "userCountry": "US",
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "The Room"
+    },
+    "purchaseTime": "2014-12-11T07:26:09.247Z"
+  }
+},
+{
+  "purchaseHistory": {
+    "invoicePrice": "",
+    "paymentMethodTitle": "",
+    "userLanguageCode": "en_US",
+    "userCountry": "US",
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "DraStic DS Emulator"
+    },
+    "purchaseTime": "2014-12-08T00:25:46.125Z"
+  }
+},
+{
+  "purchaseHistory": {
+    "invoicePrice": "",
+    "paymentMethodTitle": "",
+    "userLanguageCode": "en_US",
+    "userCountry": "US",
+    "doc": {
+      "documentType": "Subscription",
+      "title": "TouchPal Premium (TouchPal Keyboard-Cute Emoji,theme, sticker, GIFs)"
+    },
+    "purchaseTime": "2014-12-04T02:27:15.274Z"
+  }
+},
+{
+  "purchaseHistory": {
+    "invoicePrice": "",
+    "paymentMethodTitle": "",
+    "userLanguageCode": "en_US",
+    "userCountry": "US",
+    "doc": {
+      "documentType": "Subscription",
+      "title": "TouchPal Premium (TouchPal Keyboard-Cute Emoji,theme, sticker, GIFs)"
+    },
+    "purchaseTime": "2014-11-27T02:27:04.670Z"
+  }
+},
+{
+  "purchaseHistory": {
+    "invoicePrice": "",
+    "paymentMethodTitle": "",
+    "userLanguageCode": "en_US",
+    "userCountry": "US",
+    "doc": {
+      "documentType": "In App Item",
+      "title": "Box of Gems (Clash of Clans)"
+    },
+    "purchaseTime": "2014-11-17T05:13:05.036Z"
+  }
+},
+{
+  "purchaseHistory": {
+    "invoicePrice": "$4.32",
+    "paymentMethodTitle": "",
+    "userLanguageCode": "en",
+    "userCountry": "US",
+    "doc": {
+      "documentType": "Movie",
+      "title": "WALL-E"
+    },
+    "purchaseTime": "2014-11-16T08:52:11.433Z"
+  }
+},
+{
+  "purchaseHistory": {
+    "invoicePrice": "",
+    "paymentMethodTitle": "",
+    "userLanguageCode": "en_US",
+    "userCountry": "US",
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Monument Valley"
+    },
+    "purchaseTime": "2014-11-06T05:07:40.296Z"
+  }
+},
+{
+  "purchaseHistory": {
+    "invoicePrice": "",
+    "paymentMethodTitle": "",
+    "userLanguageCode": "en_US",
+    "userCountry": "US",
+    "doc": {
+      "documentType": "In App Item",
+      "title": "Box of Gems (Clash of Clans)"
+    },
+    "purchaseTime": "2014-08-01T22:14:26.318Z"
+  }
+},
+{
+  "purchaseHistory": {
+    "invoicePrice": "",
+    "paymentMethodTitle": "",
+    "userLanguageCode": "en_US",
+    "userCountry": "US",
+    "doc": {
+      "documentType": "In App Item",
+      "title": "Sack of Gems (Clash of Clans)"
+    },
+    "purchaseTime": "2014-06-30T21:39:40.059Z"
+  }
+},
+{
+  "purchaseHistory": {
+    "invoicePrice": "",
+    "paymentMethodTitle": "",
+    "userLanguageCode": "en_US",
+    "userCountry": "US",
+    "doc": {
+      "documentType": "In App Item",
+      "title": "Sack of Gems (Clash of Clans)"
+    },
+    "purchaseTime": "2014-06-30T21:38:01.556Z"
+  }
+},
+{
+  "purchaseHistory": {
+    "invoicePrice": "",
+    "paymentMethodTitle": "",
+    "userLanguageCode": "en_US",
+    "userCountry": "US",
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Monument Valley"
+    },
+    "purchaseTime": "2014-06-28T18:03:29.704Z"
+  }
+},
+{
+  "purchaseHistory": {
+    "invoicePrice": "$3.99",
+    "paymentMethodTitle": "",
+    "userLanguageCode": "en",
+    "userCountry": "US",
+    "doc": {
+      "documentType": "Movie",
+      "title": "Wanted"
+    },
+    "purchaseTime": "2014-05-31T06:38:24.517Z"
+  }
+},
+{
+  "purchaseHistory": {
+    "invoicePrice": "",
+    "paymentMethodTitle": "",
+    "userLanguageCode": "en_US",
+    "userCountry": "US",
+    "doc": {
+      "documentType": "In App Item",
+      "title": "No Ads (Compulsive)"
+    },
+    "purchaseTime": "2014-04-22T09:34:46.469Z"
+  }
+},
+{
+  "purchaseHistory": {
+    "invoicePrice": "",
+    "paymentMethodTitle": "",
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Sleep as Android Unlock 💤 Sleep cycle smart alarm"
+    },
+    "purchaseTime": "2014-04-11T07:55:49.160Z"
+  }
+},
+{
+  "purchaseHistory": {
+    "invoicePrice": "",
+    "paymentMethodTitle": "",
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Sleep as Android Unlock 💤 Sleep cycle smart alarm"
+    },
+    "purchaseTime": "2014-04-11T07:41:37.434Z"
+  }
+},
+{
+  "purchaseHistory": {
+    "invoicePrice": "",
+    "paymentMethodTitle": "",
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Light Flow Pro - LED Control"
+    },
+    "purchaseTime": "2014-03-14T02:52:24.202Z"
+  }
+},
+{
+  "purchaseHistory": {
+    "invoicePrice": "",
+    "paymentMethodTitle": "",
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Game Dev Story"
+    },
+    "purchaseTime": "2014-02-13T09:50:35.725Z"
+  }
+},
+{
+  "purchaseHistory": {
+    "invoicePrice": "",
+    "paymentMethodTitle": "",
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Pocket Casts - Podcast Player"
+    },
+    "purchaseTime": "2014-02-08T20:25:43.628Z"
+  }
+}]
